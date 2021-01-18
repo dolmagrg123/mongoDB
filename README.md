@@ -18,9 +18,9 @@ An organized store of documents in MongoDB, usually with common fileds between d
 #### Atlas:
 
 Fully built database with mongoDB at its core for data storage and retrieval
-* Atlas users can deploy clusters:
+#### Atlas users can deploy clusters:
  Clusters: a group of servers that stores your data
-* Replica Set:
+#### Replica Set:
  A few connected MongoDB instances that store the same data
-* Instance:
+#### Instance:
 A single machine locally or in the cloud running a certain software
