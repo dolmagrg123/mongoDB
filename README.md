@@ -31,6 +31,31 @@ When you deploy your code or make changes redundant copies of you data are store
 #### Instance:
 A single machine locally or in the cloud running a certain software. In pur case, it is mongoDb database running in the cloud.
 
+## Uses of Atlas
+
+* Manage cluster creation
+* Run and maintain database deployment
+* Use cloud service provider of your choice
+* Experiment with new tools and features
+
+
+## JSON
+
+
+JavaScript Standard Object Notation
+
+JSON fromat: 
+
+* Start and end with curly braces {}
+* Separate each key and value with a colon :
+* Separate each key:value pair with a comma ,
+* "keys" must be surrounded by quotation marks ""
+        Keys are also known as fields in mongoDB.
+
+
+
+
+
 
 
 
