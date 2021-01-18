@@ -1,5 +1,8 @@
 ## Code Examples
-`mongodump --uri "mongodb+srv://<your username>:<your password>@<your cluster>.mongodb.net/sample_supplies"`
+```
+mongodump --uri "mongodb+srv://<your username>:<your password>@<your cluster>.mongodb.net/sample_supplies"
+
+```
 
 
 Exports data in BSON
