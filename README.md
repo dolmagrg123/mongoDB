@@ -52,6 +52,35 @@ JSON fromat:
 * "keys" must be surrounded by quotation marks ""
         Keys are also known as fields in mongoDB.
 
+#### Pros of JSON
+
+Friendly, Readable and Familiar
+
+#### Cons of JSON
+
+Text-based, Space consuming and Limited
+
+
+## BSON
+
+MongoDB stores data in BSON, internally and over the network. BSON bridges the gap between binary representation and JSON format
+
+#### Optimized for:
+* Speed
+* Space
+* Flexibility
+#### High performance
+#### General purpose focus
+
+### Data
+
+MongoDB stores data in BSON and then you can view it in JSON. BSON is faster to parse and lighter to store than JSON.
+
+
+
+
+
+
 
 
 
