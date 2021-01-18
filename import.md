@@ -1,4 +1,6 @@
-mongodump --uri "mongodb+srv://<your username>:<your password>@<your cluster>.mongodb.net/sample_supplies"
+## Code Examples
+To generate lorem ipsum use special shortcode: `mongodump --uri "mongodb+srv://<your username>:<your password>@<your cluster>.mongodb.net/sample_supplies"`
+
 
 Exports data in BSON
 
